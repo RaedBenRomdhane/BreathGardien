@@ -38,9 +38,9 @@ breathgardien/
             ├── Show3DData.py
             ├── Superpose2D.py
             └── model_params/
-                ├── UNETR_part0_530.py
-                ├── UNETR_part1_817.py
-                └── UNETR_part2_150.py
+                ├── UNETR_part0_530.pth
+                ├── UNETR_part1_817.pth
+                └── UNETR_part2_150.pth
 
 ````
 
